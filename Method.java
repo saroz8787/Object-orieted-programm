@@ -21,7 +21,7 @@ public class Method {
 		Method m=new Method();
 		m.multiply();
 
-		System.out.println("HELLO");
+	
 	}
 
 }
